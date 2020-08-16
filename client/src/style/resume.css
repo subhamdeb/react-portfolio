@@ -1,0 +1,16 @@
+.resume_txt{
+    font-family: 'Noticia Text', serif;
+    font-size: 110px;
+}
+.hgt{
+    margin-top: 70px;
+}
+
+@media only screen and (max-width:550px){
+    .hgt{
+        margin-top:10px
+    }
+    .resume_txt{
+        font-size:60px ;
+    }
+}
